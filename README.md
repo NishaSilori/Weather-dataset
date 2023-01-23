@@ -1,2 +1,3 @@
 # Weather-dataset
-In this project, I have done time- series analysis
+
+Performed descriptive data analysis on time-series dataset. Clean, enrich and then visualized the data by using python and its various libraries.
